@@ -1,6 +1,6 @@
 - 👋 Hi, I’m omar zahran
-- 👀 I’m interested in solving business problems
-- 🌱 I’m currently learning Data science
+- 👀 I’m a Junior Data Scientist   
+- 🌱 I’m interested in solving business problems
 
 <!---
 omar-zahran/omar-zahran is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
