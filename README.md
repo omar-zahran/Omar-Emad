@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Omar Zahran</h1>
-<h3 align="center">A passionate Data Scientist From Egypt</h3>
+<h3 align="center">A passionate Data Engineer From Egypt</h3>
 
 - 🔭 I’m currently open for **An internship or a new job opportunity**
 
-- 🌱 I’m currently learning **IBM Data Science Professional Certificate**
+- 🌱 I’m currently learning **IBM Data Engineering Professional Certificate**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 💬 Ask me about **Data Analysis and Machine Learning**
+- 💬 Ask me about **Data Analysis and Business Intelligence**
 
 - 📫 How to reach me **ozahran333@gmail.com**
 
