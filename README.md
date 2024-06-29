@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Omar Zahran</h1>
-<h3 align="center">A passionate Data Engineer From Egypt</h3>
+<h3 align="center">A passionate Business Intelligence Developer From Egypt</h3>
 
-- 🔭 I’m currently open for **An internship or a new job opportunity**
+- 🔭 I’m currently open for **A new job opportunity**
 
-- 🌱 I’m currently learning **IBM Data Engineering Professional Certificate**
-
-- 👯 I’m looking to collaborate on **Open Source Projects**
+- 🌱 I’m currently in an internship at **Information Technology Institute (ITI)**
 
 - 💬 Ask me about **Data Analysis and Business Intelligence**
 
