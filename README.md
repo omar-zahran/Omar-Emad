@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Omar Zahran</h1>
+<h1 align="center">Hi 👋, I'm Omar Emad</h1>
 <h3 align="center">A passionate Business Intelligence Developer From Egypt</h3>
 
 - 🔭 I’m currently open for **A new job opportunity**
